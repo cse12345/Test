@@ -1,2 +1,3 @@
 # Test
-Test rep
+Test rep for git command demonstration
+
